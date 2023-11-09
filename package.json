@@ -1,6 +1,6 @@
 {
-  "name": "mysite",
-  "version": "0.0.0",
+  "name": "redeemcodes",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "vite --port 8080",
