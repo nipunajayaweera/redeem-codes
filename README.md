@@ -1,6 +1,7 @@
 # redeem codes
 
-This template should help get you started developing with Vue 3 in Vite.
+Overview
+Welcome to the Game Code Redemption Application! This application allows users to redeem codes for various games and unlock exciting in-game content. Whether you've got a promo code from a game publisher, a special event, or a friend, this app makes it easy to claim your rewards.
 
 ## Project Setup
 
